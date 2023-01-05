@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: e8d64809309abd049873979119e8edff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: square-boy-orange-boy-walk_0
+  - first:
+      213: 21300002
+    second: square-boy-orange-boy-walk_1
+  - first:
+      213: 21300004
+    second: square-boy-orange-boy-walk_2
+  - first:
+      213: 21300006
+    second: square-boy-orange-boy-walk_3
+  - first:
+      213: 21300008
+    second: square-boy-orange-boy-walk_4
+  - first:
+      213: 21300010
+    second: square-boy-orange-boy-walk_5
+  - first:
+      213: 21300012
+    second: square-boy-orange-boy-walk_6
+  - first:
+      213: 21300014
+    second: square-boy-orange-boy-walk_7
+  - first:
+      213: 21300016
+    second: square-boy-orange-boy-walk_8
+  - first:
+      213: 21300018
+    second: square-boy-orange-boy-walk_9
+  - first:
+      213: 21300020
+    second: square-boy-orange-boy-walk_10
+  - first:
+      213: 21300022
+    second: square-boy-orange-boy-walk_11
+  - first:
+      213: 21300024
+    second: square-boy-orange-boy-walk_12
+  - first:
+      213: 21300026
+    second: square-boy-orange-boy-walk_13
+  - first:
+      213: 21300028
+    second: square-boy-orange-boy-walk_14
+  - first:
+      213: 21300030
+    second: square-boy-orange-boy-walk_15
+  - first:
+      213: 21300032
+    second: square-boy-orange-boy-walk_16
+  - first:
+      213: 21300034
+    second: square-boy-orange-boy-walk_17
+  - first:
+      213: 21300036
+    second: square-boy-orange-boy-walk_18
+  - first:
+      213: 21300038
+    second: square-boy-orange-boy-walk_19
+  - first:
+      213: 21300040
+    second: square-boy-orange-boy-walk_20
+  - first:
+      213: 21300042
+    second: square-boy-orange-boy-walk_21
+  - first:
+      213: 21300044
+    second: square-boy-orange-boy-walk_22
+  - first:
+      213: 21300046
+    second: square-boy-orange-boy-walk_23
+  - first:
+      213: 21300048
+    second: square-boy-orange-boy-walk_24
+  - first:
+      213: 21300050
+    second: square-boy-orange-boy-walk_25
+  - first:
+      213: 21300052
+    second: square-boy-orange-boy-walk_26
+  - first:
+      213: 21300054
+    second: square-boy-orange-boy-walk_27
+  - first:
+      213: 21300056
+    second: square-boy-orange-boy-walk_28
+  - first:
+      213: 21300058
+    second: square-boy-orange-boy-walk_29
+  - first:
+      213: -2419678576884027748
+    second: JumperPlayableCharacter_0
+  - first:
+      213: -4438749080492234419
+    second: JumperPlayableCharacter_1
+  - first:
+      213: 7097538132013751792
+    second: JumperPlayableCharacter_2
+  - first:
+      213: -3615449113519870044
+    second: JumperPlayableCharacter_3
+  - first:
+      213: -6200332111422239739
+    second: JumperPlayableCharacter_4
+  - first:
+      213: -7163444638801777
+    second: JumperPlayableCharacter_5
+  - first:
+      213: 2038839918653351811
+    second: JumperPlayableCharacter_6
+  - first:
+      213: -4813417149693292701
+    second: JumperPlayableCharacter_7
+  - first:
+      213: -6588641451724121678
+    second: JumperPlayableCharacter_8
+  - first:
+      213: -4572367506649290474
+    second: JumperPlayableCharacter_9
+  - first:
+      213: 5852448309208880909
+    second: JumperPlayableCharacter_10
+  - first:
+      213: 8631452400900240901
+    second: JumperPlayableCharacter_11
+  - first:
+      213: 3115797501599020129
+    second: JumperPlayableCharacter_12
+  - first:
+      213: 6072634218423971707
+    second: JumperPlayableCharacter_13
+  - first:
+      213: -1385017155759459297
+    second: JumperPlayableCharacter_14
+  - first:
+      213: 2581305747027091368
+    second: JumperPlayableCharacter_15
+  - first:
+      213: 2935004611749009479
+    second: JumperPlayableCharacter_16
+  - first:
+      213: 4676261924818827563
+    second: JumperPlayableCharacter_17
+  - first:
+      213: 5737643545720726925
+    second: JumperPlayableCharacter_18
+  - first:
+      213: 2979987082582448343
+    second: JumperPlayableCharacter_19
+  - first:
+      213: 3579255306415539505
+    second: JumperPlayableCharacter_20
+  - first:
+      213: 4886188858197238766
+    second: JumperPlayableCharacter_21
+  - first:
+      213: -3234543997088156522
+    second: JumperPlayableCharacter_22
+  - first:
+      213: -1517731202694588792
+    second: JumperPlayableCharacter_23
+  - first:
+      213: 8959352563732979458
+    second: JumperPlayableCharacter_24
+  - first:
+      213: -4921273431013325327
+    second: JumperPlayableCharacter_25
+  - first:
+      213: -3186117899149215911
+    second: JumperPlayableCharacter_26
+  - first:
+      213: 9151500632505354142
+    second: JumperPlayableCharacter_27
+  - first:
+      213: 6508859722459188537
+    second: JumperPlayableCharacter_28
+  - first:
+      213: -535232181189350387
+    second: JumperPlayableCharacter_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 763
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e643287239b6ed0800000000000000
+      internalID: -2419678576884027748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 763
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492b229a356662c0800000000000000
+      internalID: -4438749080492234419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 762
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1872a3558f7260800000000000000
+      internalID: 7097538132013751792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 762
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa52dcf2853ddc0800000000000000
+      internalID: -3615449113519870044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 762
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cca31abcef3f9a0800000000000000
+      internalID: -6200332111422239739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 763
+        width: 259
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80afe292ec86eff0800000000000000
+      internalID: -7163444638801777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 763
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38728319a1a6b4c10800000000000000
+      internalID: 2038839918653351811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 763
+        width: 259
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f02ccda9e433db0800000000000000
+      internalID: -4813417149693292701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 760
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d19df1817094a0800000000000000
+      internalID: -6588641451724121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 763
+        width: 261
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61961a76affab80c0800000000000000
+      internalID: -4572367506649290474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 763
+        width: 261
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071bb8cab2183150800000000000000
+      internalID: 5852448309208880909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 762
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f95b2a3419c770800000000000000
+      internalID: 8631452400900240901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 762
+        width: 263
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164fbdac1598d3b20800000000000000
+      internalID: 3115797501599020129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 762
+        width: 264
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fea00c5a4564450800000000000000
+      internalID: 6072634218423971707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 763
+        width: 265
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b2272c3e67cce0800000000000000
+      internalID: -1385017155759459297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 498
+        width: 265
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af593c86e3a2d320800000000000000
+      internalID: 2581305747027091368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 498
+        width: 264
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748de61e42b3bb820800000000000000
+      internalID: 2935004611749009479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 498
+        width: 264
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b289d17b65e040800000000000000
+      internalID: 4676261924818827563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_18
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 498
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852f7ec76430af40800000000000000
+      internalID: 5737643545720726925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_19
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 497
+        width: 262
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d85494867a0b5920800000000000000
+      internalID: 2979987082582448343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_20
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 498
+        width: 261
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135845bccb11ca130800000000000000
+      internalID: 3579255306415539505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_21
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 500
+        width: 261
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3615ed0ea3fc340800000000000000
+      internalID: 4886188858197238766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_22
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 500
+        width: 261
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694303b3f579c13d0800000000000000
+      internalID: -3234543997088156522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_23
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 499
+        width: 259
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886dcde238fefeae0800000000000000
+      internalID: -1517731202694588792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_24
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 498
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1ac220b3065c70800000000000000
+      internalID: 8959352563732979458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_25
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 498
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f502e573ef14bbb0800000000000000
+      internalID: -4921273431013325327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 496
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95772b8c6a2a8c3d0800000000000000
+      internalID: -3186117899149215911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_27
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 497
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e978e3aa659a00f70800000000000000
+      internalID: 9151500632505354142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_28
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 498
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0702ae6d145a50800000000000000
+      internalID: 6508859722459188537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperPlayableCharacter_29
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 499
+        width: 261
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ce9dfba297298f0800000000000000
+      internalID: -535232181189350387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac13019a2974ed9468f5126dbe318de0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
